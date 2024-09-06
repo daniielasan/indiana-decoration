@@ -1,0 +1,87 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+*{
+    padding: 10px;
+}
+.header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cards-container{
+    display: flex;
+    flex-direction: row;
+}
+.colores-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+.card-selected{
+    background-color: grey !important;
+}
+.card-image{
+    width: 7rem;
+    height: 7rem;
+    align-self: center;
+}
+.card-text{
+    text-align: center;
+    width: 80%;
+    align-self: center;
+}
+.color-square{
+    width: 5rem;
+    height: 5rem;
+    border: 2px solid grey;
+}
+.blanco{
+    background-color: azure;
+}
+.beige{
+    background-color: khaki;
+}
+.terra{
+    background-color: burlywood;
+}
+.bordeaux{
+    background-color: darkred;
+}
+.color-selected{
+    border: 2px solid black;
+}
+.footer-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* -- Estilos del carrito -- */
+.datos-container{
+    display: flex;
+    flex-direction: row;
+}
+.input-nombre{
+    max-height: 3rem;
+    width: 20rem!important;
+}
+
+.carrito-header-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card-detail-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card-detail-buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

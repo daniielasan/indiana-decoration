@@ -1,0 +1,37 @@
+{
+  "almohadones": [
+    {
+      "nombre": "Madrid",
+      "image": "./assets/madrid.jpeg",
+      "precio": 25000,
+      "descripcion": "Material semi sintetico extremada mente resistenete, ideal para ser usado en exteriores"
+    },
+    {
+      "nombre": "Roma",
+      "image": "./assets/roma.jpeg",
+      "precio": 30000,
+      "descripcion": "Material sintetico impermeable de alta calidad, ideal para ser usado muebles de playas o albercas"
+    },
+    {
+      "nombre": "Paris",
+      "image": "./assets/paris.jpeg",
+      "precio": 20000,
+      "descripcion": "Excelente calidad de  algodón mediterraneo. Suave al tacto, ideal para decorar interiores"
+    },
+    {
+      "nombre": "Londres",
+      "image": "./assets/londres.jpeg",
+      "precio": 50000,
+      "descripcion": "Material algodón premium, bordado y diseñado con alta costura para la decoración de interiores exclusivos"
+    }
+  ],
+  "colores": {
+    "values": [
+      "blanco",
+      "beige",
+      "terra",
+      "bordeaux"
+    ]
+  },
+  "purchases": []
+}
